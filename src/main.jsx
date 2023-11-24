@@ -1,4 +1,6 @@
-import ReactDOM from "react-dom/client";
+/* eslint-disable no-unused-vars */
+import ReactDOM from "react-dom";
+// import jsxDev from "react/jsx-dev-runtim";
 import "./index.css";
 import App from "./App";
 import { Provider } from "react-redux";
